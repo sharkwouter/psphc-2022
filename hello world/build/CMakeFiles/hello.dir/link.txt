@@ -1,1 +1,0 @@
-/home/wouter/pspdev/bin/psp-gcc -I/home/wouter/pspdev/psp/include -I/home/wouter/pspdev/psp/sdk/include -DPSP -O2 -G0 -L/home/wouter/pspdev/lib -L/home/wouter/pspdev/psp/lib -L/home/wouter/pspdev/psp/sdk/lib -Wl,-zmax-page-size=128 CMakeFiles/hello.dir/main.c.obj -o hello  -lpspdebug -lpspdisplay -lpspge 
